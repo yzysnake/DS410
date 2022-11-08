@@ -1,0 +1,50 @@
+ORIGIN,ORIGIN_STATE_NM,Total_Passengers
+MIA,Florida,154674.0
+BFD,Pennsylvania,14.0
+USA,North Carolina,1720.0
+HSV,Alabama,5688.0
+MSN,Wisconsin,8756.0
+CAE,South Carolina,5390.0
+MLI,Illinois,3812.0
+BDL,Connecticut,25754.0
+CWA,Wisconsin,1231.0
+LIH,Hawaii,5003.0
+MLB,Florida,2917.0
+HHH,South Carolina,2363.0
+OGD,Utah,244.0
+JHM,Hawaii,3.0
+PUW,Washington,799.0
+RDD,California,319.0
+GPT,Mississippi,3362.0
+MGW,West Virginia,20.0
+HNL,Hawaii,58321.0
+ELD,Arkansas,4.0
+ELP,Texas,18119.0
+SLK,New York,4.0
+PDT,Oregon,2.0
+TWF,Idaho,645.0
+HRL,Texas,5280.0
+MRY,California,1847.0
+PNS,Florida,15369.0
+LWS,Idaho,469.0
+SOW,Arizona,12.0
+HOB,New Mexico,84.0
+LAN,Michigan,1222.0
+VPS,Florida,9378.0
+MKK,Hawaii,18.0
+CHO,Virginia,2399.0
+GUC,Colorado,1458.0
+ALO,Iowa,113.0
+UIN,Illinois,40.0
+EWR,New Jersey,137311.0
+BRD,Minnesota,353.0
+GEG,Washington,21944.0
+FAI,Alaska,5471.0
+FNT,Michigan,5253.0
+AKN,Alaska,104.0
+YKM,Washington,858.0
+LBE,Pennsylvania,1736.0
+MCO,Florida,303365.0
+ILG,Delaware,204.0
+LGB,California,9775.0
+ERI,Pennsylvania,899.0

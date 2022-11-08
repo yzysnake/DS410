@@ -1,0 +1,19 @@
+ITIN_ID,YEAR,QUARTER,ORIGIN,ORIGIN_STATE_NM,DEST,DEST_STATE_NM,PASSENGERS
+2022149,2022,1,CAE,South Carolina,MCO,Florida,1.00
+2022150,2022,1,CAE,South Carolina,MCO,Florida,1.00
+2022151,2022,1,MCO,Florida,CAE,South Carolina,1.00
+2022151,2022,1,CAE,South Carolina,MCO,Florida,1.00
+2022152,2022,1,CAE,South Carolina,MCO,Florida,1.00
+2022152,2022,1,MCO,Florida,CAE,South Carolina,1.00
+2022153,2022,1,MCO,Florida,FLL,Florida,1.00
+2022153,2022,1,CAE,South Carolina,MCO,Florida,1.00
+2022154,2022,1,CAE,South Carolina,TPA,Florida,1.00
+2022155,2022,1,CAE,South Carolina,TPA,Florida,1.00
+2022156,2022,1,CAE,South Carolina,TPA,Florida,1.00
+2022157,2022,1,CHS,South Carolina,FLL,Florida,1.00
+2022158,2022,1,CHS,South Carolina,FLL,Florida,2.00
+2022159,2022,1,CHS,South Carolina,FLL,Florida,8.00
+2022160,2022,1,CHS,South Carolina,FLL,Florida,1.00
+2022161,2022,1,CHS,South Carolina,FLL,Florida,10.00
+2022162,2022,1,CHS,South Carolina,FLL,Florida,3.00
+2022163,2022,1,CHS,South Carolina,FLL,Florida,1.00
